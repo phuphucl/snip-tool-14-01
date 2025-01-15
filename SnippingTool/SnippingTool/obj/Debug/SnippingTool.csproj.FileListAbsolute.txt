@@ -1,0 +1,16 @@
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\SnippingTool.exe.config
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\SnippingTool.exe
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\SnippingTool.pdb
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.csproj.AssemblyReference.cache
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.Form1.resources
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.Properties.Resources.resources
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.csproj.GenerateResource.cache
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.csproj.CoreCompileInputs.cache
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.exe
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.pdb
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\PLControls.dll
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\PLLibrary.dll
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\PLControls.pdb
+D:\Projects\SnippingTool\SnippingTool\bin\Debug\PLLibrary.pdb
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\Snipping.E5275EB2.Up2Date
+D:\Projects\SnippingTool\SnippingTool\obj\Debug\SnippingTool.FrmCaptureold.resources
